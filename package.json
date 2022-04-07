@@ -1,0 +1,15 @@
+{
+  "name": "wit--final",
+  "version": "1.0.0",
+  "description": "The accounts public and private keys are:\r - Public key: 0xbCAC7945Fcb9E7665613a031F135Cecbc06D368c, private key : 'df298d7a6047729643b7862057c4a6249de8b602a8559aca99934b9f4dcf802c',\r - Public key: 0x318af4302a3195Fe49cb81bB7C27Dfc984D5bdF6, private key: 'd4a2930376d67d83a7b4b1ea57b1bcf45284b8003484eccf8af4657040484536'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  }
+}
